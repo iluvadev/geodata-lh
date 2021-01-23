@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Albereda 2</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>ebm.lacasadelparc@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>134719</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Municipal La Casa del Parc</value></Data><Data name="telefon"><value>934482875</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12248115260235,41.3693045586987
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Saurí 29</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>info@picarol2008.es</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>150054</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'Infants Picarol</value></Data><Data name="telefon"><value>933381549</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10626818244949,41.3596318146284
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Santiago Ramón y Cajal 21</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>152148</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'nfants els Joglars</value></Data><Data name="telefon"><value>934219213</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12832076116969,41.3680698975699
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Molí 14</value></Data><Data name="barri"><value>Can Serra</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>llardingdong@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>160944</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Ding Dong</value></Data><Data name="telefon"><value>934385973</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10258386980612,41.3676107735361
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Josep Prats 0044</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98540</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Cargolet</value></Data><Data name="telefon"><value>933379328</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09770246647262,41.3583129078148
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Provença 0018</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98543</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants El Guirigall</value></Data><Data name="telefon"><value>932612637</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09758503835442,41.3572941416095
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Llobregat 0109</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98544</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants El Primer Pas</value></Data><Data name="telefon"><value>933333306</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12064390223533,41.3716594920625
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Doctor Ramon Solanich i Riera 0013</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98548</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants l'Espiga</value></Data><Data name="telefon"><value>933337261</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10854383186248,41.3742145480246
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Santiago Ramón y Cajal 0009, pis BX</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98553</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Los Angeles</value></Data><Data name="telefon"><value>934213937</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12900938476913,41.3684354126578
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Rosell 0020</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>lidia@pafdracmagic.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98555</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Paf, el Drac Màgic</value></Data><Data name="telefon"><value>934321216</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12401954510413,41.3624796110473
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Santiago Apòstol 0059</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98557</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Pelusín</value></Data><Data name="telefon"><value>934313430</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12442247526244,41.3698778149627
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Castelao 0016, pis BX</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98558</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Perrault</value></Data><Data name="telefon"><value>934311994</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12312625127931,41.3657875566564
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>PE Oliveras 0026</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>escolapinocho@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98559</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Pinocho</value></Data><Data name="telefon"><value>934493344</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11773259459923,41.3694213628195
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Enric Prat de la Riba 0234</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98560</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Saltiró</value></Data><Data name="telefon"><value>933372640</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10429511306407,41.3605352312424
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Emigrant 0009</value></Data><Data name="barri"><value>Sanfeliu</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98561</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Sanfeliu</value></Data><Data name="telefon"><value>933377889</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.08930667690497,41.3654076868719
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Progrés 0007, pis ET</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98562</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Viki</value></Data><Data name="telefon"><value>934409001</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11914929724097,41.3751969964509
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>PC Remunta 3</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>escola@bressolpatufet.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98556</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Patufet</value></Data><Data name="telefon"><value>933388262</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09352724337435,41.360243712885
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>CR Collblanc 155</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>laguaguasccl@telefonica.net</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98550</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants La Gua-Gua SCCL</value></Data><Data name="telefon"><value>934409605,616234254</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11086907499067,41.3755746559646
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Primavera 105</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8048083@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>105161</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants La Florida</value></Data><Data name="telefon"><value>934379844</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10660487041981,41.3717224539051
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Orient 0025, pis ET</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98545</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants Màgic</value></Data><Data name="telefon"><value>933336411</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11908950278872,41.3725393376192
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Amadeu Torner 57</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>ebmlacasadelscontes@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>134741</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Municipal La Casa dels Contes</value></Data><Data name="telefon"><value>933363304</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12323843516889,41.3601046926555
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Joan Maragall 0006</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8050065@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98547</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Garabatos</value></Data><Data name="telefon"><value>933375310</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10877273037102,41.3627047803833
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Amapolas 41</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>lacasadelmoli@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>109699</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Municipal La Casa del Molí</value></Data><Data name="telefon"><value>934807327</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10093588691616,41.3700659498408
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Riera de la Creu 85</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8018303@xtec.cat - alpes85r@hotmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>110380</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Alpes</value></Data><Data name="telefon"><value>933378340</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09841616975141,41.3629033081769
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Can Trias 8</value></Data><Data name="barri"><value>Gornal</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>info@avantis.edu.es</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>115586</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Avantis</value></Data><Data name="telefon"><value>933355000</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12094742175623,41.3562229971579
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Alegria 58</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>lacasadelesflors@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>134743</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Municipal La Casa de les Flors</value></Data><Data name="telefon"><value>934483819</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11451366444952,41.3687210690019
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Estronci 24</value></Data><Data name="barri"><value>Sanfeliu</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>lacasadelamuntanya@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>140209</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Municipal La Casa de la Muntanya</value></Data><Data name="telefon"><value>933377045</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09138335201158,41.365676317781
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Carrilet 133</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>lacasadelsarbres@gmail.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>81065</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Municipal La Casa dels Arbres</value></Data><Data name="telefon"><value>934315919</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12070945625562,41.3641297479125
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. França 61</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8048101@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98530</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants El Passeig</value></Data><Data name="telefon"><value>933360553</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11220192529712,41.3549488329072
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Carmen Amaya 43</value></Data><Data name="barri"><value>Gornal</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8048095@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98531</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants El Tren</value></Data><Data name="telefon"><value>933358849</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11711984727016,41.3554911010533
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Riera Blanca 0022</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8068288@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98546</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Bressol Nova Fortuny</value></Data><Data name="telefon"><value>934491273</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12211353711482,41.3753007248085
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Prat 0041</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>estelblau@estelblau.net</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98549</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Llar d'infants l'Estel Blau</value></Data><Data name="telefon"><value>932634574</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10796891993229,41.3515292711458
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Nord 0008</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>jbalagu2@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98616</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Centre Educatiu Balaguer</value></Data><Data name="telefon"><value>933334116</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11315245532362,41.367701746225
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Doctor Martí i Julià 0151</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8018583@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98617</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Acadèmia Cultura</value></Data><Data name="telefon"><value>934313039</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12601541663545,41.3705744965975
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Josep Anselm Clavé 0006</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>info@escolaazorin.com</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98623</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Azorín</value></Data><Data name="telefon"><value>933319997</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12640346464514,41.3665961420725
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Pareto 37</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>secretaria@casaldelsangels.org</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98631</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Casal dels Àngels</value></Data><Data name="telefon"><value>933314596</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12767346599472,41.3655068679873
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Andorra 0023</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value>a8018340@xtec.cat</value></Data><Data name="fax"><value></value></Data><Data name="id"><value>98641</value></Data><Data name="nivell2"><value>Escoles Bressol - Llars d'infants</value></Data><Data name="nom"><value>Escola Alegre Centre Concertat</value></Data><Data name="telefon"><value>934376745</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_ebres.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10032832745118,41.3690343490058
+    </coordinates></Point>
+    </Placemark></Folder>  </Document>
+  </kml>

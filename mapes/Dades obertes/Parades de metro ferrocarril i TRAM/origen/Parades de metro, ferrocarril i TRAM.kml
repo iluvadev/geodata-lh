@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1983</value></Data><Data name="nom"><value>Santa Eulàlia</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.36918,2.128757
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1983</value></Data><Data name="nom"><value>Torrassa L1</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.368524,2.116602
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1987</value></Data><Data name="nom"><value>Florida</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.368561,2.110108
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1987</value></Data><Data name="nom"><value>Can Serra</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.367875,2.1036
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1987</value></Data><Data name="nom"><value>Rambla Just Oliveras</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.364022,2.100347
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1987</value></Data><Data name="nom"><value>Avinguda Carrilet L1</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.358037,2.102493
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1989</value></Data><Data name="nom"><value>Bellvitge</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.351314,2.111376
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1989</value></Data><Data name="nom"><value>Feixa Llarga (Hospital de Bellvitge)</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.344554,2.106706
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1969</value></Data><Data name="nom"><value>Sant Ramon (Collblanc L5)</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.376373,2.118108
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1973</value></Data><Data name="nom"><value>Pubilla Cases</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.373808,2.106999
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1976</value></Data><Data name="nom"><value>Buxeres (Can Boixeres)</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.366846,2.091543
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2016</value></Data><Data name="nom"><value>Collblanc L9S</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.375954,2.118285
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2016</value></Data><Data name="nom"><value>Torrassa L9S</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.368524,2.116602
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2016</value></Data><Data name="nom"><value>Can Trias | Gornal</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.360943,2.118249
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2016</value></Data><Data name="nom"><value>Europa | Fira L9S</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.357384,2.124808
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2016</value></Data><Data name="nom"><value>Fira</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.352098,2.130758
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2018</value></Data><Data name="nom"><value>Collblanc L10S</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.376373,2.118108
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2018</value></Data><Data name="nom"><value>Torrassa L10S</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.368524,2.116602
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2018</value></Data><Data name="nom"><value>Can Trias | Gornal L10S</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.360943,2.118249
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2019</value></Data><Data name="nom"><value>Provençana</value></Data><Data name="transport"><value>Metro</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.361416,2.123358
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1987</value></Data><Data name="nom"><value>Ildefons Cerdà | Ciutat de la Justícia</value></Data><Data name="transport"><value>FGC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.361412,2.130191
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2007</value></Data><Data name="nom"><value>Europa | Fira FGC</value></Data><Data name="transport"><value>FGC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.357384,2.124808
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1987</value></Data><Data name="nom"><value>Gornal FGC</value></Data><Data name="transport"><value>FGC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.355339,2.117199
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1985</value></Data><Data name="nom"><value>Sant Josep</value></Data><Data name="transport"><value>FGC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.360893,2.110305
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1985</value></Data><Data name="nom"><value>L'H Avinguda Carrilet FGC</value></Data><Data name="transport"><value>FGC</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.358037,2.102493
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>2004</value></Data><Data name="nom"><value>Can Rigal</value></Data><Data name="transport"><value>TRAM</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.375987,2.105965
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1854</value></Data><Data name="nom"><value>L'Hospitalet de Llobregat</value></Data><Data name="transport"><value>Ferrocarril</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.36409,2.100078
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="any_inici"><value>1881</value></Data><Data name="nom"><value>Bellvitge</value></Data><Data name="transport"><value>Ferrocarril</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      41.354871,2.115287
+    </coordinates></Point>
+    </Placemark></Folder>  </Document>
+  </kml>

@@ -1,0 +1,724 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns:kml="http://earth.google.com/kml/2.2">
+  <Document id="featureCollection">
+<Style id="defaultStyle">
+  <LineStyle>
+    <width>1.5</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>7d8a30c4</color>
+  </PolyStyle>
+</Style>
+  <Folder><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Santa Eulàlia 0042</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99594</value></Data><Data name="nom"><value>Farmàcia de Vilarrubia Goula, Estel</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uSlo4TzzvppV1VmNBFM6painGF5jET7CUoqazB</value></Data><Data name="telefon"><value>933314192</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12916643056564,41.3674187572299
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Isabel la Catòlica 0025</value></Data><Data name="barri"><value>Can Serra</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99588</value></Data><Data name="nom"><value>Farmàcia Gabarro Sole, Ramon</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uQYbtyxBNDjhfS8njp5bIcG36VTdqdCiwsqazB</value></Data><Data name="telefon"><value>934386236</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10367990005332,41.3661601093755
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>RB Marina 204</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99591</value></Data><Data name="nom"><value>Farmàcia Agusti Garcia-Navarro, Maria</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uQC849BSUXiXaiHtwnjC3XMuQr9N89bp4MqazB</value></Data><Data name="telefon"><value>933367602</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11164978238157,41.3524765183615
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>CR Esplugues 26</value></Data><Data name="barri"><value>Can Serra</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99592</value></Data><Data name="nom"><value>Farmàcia Oliveras Martín, Juan</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uSTTzqazCysl6t5dcqt1efqazC0nsW5v2i1wxjZEqazB</value></Data><Data name="telefon"><value>934372059</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09650237790614,41.3672839368013
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Font 0018</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99596</value></Data><Data name="nom"><value>Farmàcia Hernández Fernández, Blasa José</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFAoXWz1ZPqazCyzkkAtcKTeTlSQQ3YsejXzDQqazB</value></Data><Data name="telefon"><value>933333038</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11270805449928,41.3722470889056
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>RO Torrassa 0120</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99644</value></Data><Data name="nom"><value>Farmàcia Vilarroya Oliver, Nuria</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmpwfRJrUEh1qazAd1NqazC8nE2t6CMPdO9n8fCqazCQqazB</value></Data><Data name="telefon"><value>934311849</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.122826542481,41.3694062751773
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Llevant 0047</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99603</value></Data><Data name="nom"><value>Farmàcia Melchor Peirats, Carlos</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFBR1HDuhKNqazAt4tvSozOd8uQqazCqazAs9Xoml8okqazB</value></Data><Data name="telefon"><value>934490864</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10964651767807,41.373151200928
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Isabel la Catòlica 0073</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99612</value></Data><Data name="nom"><value>Farmàcia Navarro Suñer, Mª Gisela</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdmBumixqazA5EGASbPP9ZBc3Z0ONwDqazAAvyPPQqazB</value></Data><Data name="telefon"><value>934375111</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10364593621693,41.3703753381314
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Aprestadora 80</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99614</value></Data><Data name="nom"><value>Farmàcia Zabala de Oleza Rafael</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdmjeFFhQlhd7YD8rmNkdRDa6zRgsuxvZ4IqazB</value></Data><Data name="telefon"><value>934326643</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12699457054773,41.3626283321361
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>RB Marina 68</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99593</value></Data><Data name="nom"><value>Farmàcia Palau Roig, Mª Elena</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uT0jAEN2qazCWk3Gp12fuzqCeXHSTrnMFAHHgqazB</value></Data><Data name="telefon"><value>932634369</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1126365947273,41.3502322611585
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Santa Eulàlia 0097</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99639</value></Data><Data name="nom"><value>Farmàcia Balsells Turmo, Elia / Balsells Turmo, Marta</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmrADL33td5trO5YsnN7KS9fReuPzJZ4Jt4qazB</value></Data><Data name="telefon"><value>933315698</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12623199024111,41.3669010938082
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Llançà 0035</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99576</value></Data><Data name="nom"><value>Farmàcia Beltran Capafons, Ana Mar</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeRpgmo0KVySmspW8Vq7Ik7bXZ7WLr0sx50qazB</value></Data><Data name="telefon"><value>934496022</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11753233670125,41.3718518423063
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Europa 0129</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99632</value></Data><Data name="nom"><value>Farmàcia Tarres Torras, Antonio</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r38pM6teUz7wY8VbyuWnUqazChsORbasAtqazCmwqazB</value></Data><Data name="telefon"><value>933353344</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11297170347062,41.3546034790299
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Castelao 0074</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99568</value></Data><Data name="nom"><value>Farmàcia Adsara Dalmau, Jordi / Adsara Grau, MªJosé</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLhU92YK1OxqazAhh5dCeDBqLVroP25valp8CQqazB</value></Data><Data name="telefon"><value>934225703</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12438554676362,41.3637164221774
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Joventut 0085</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99628</value></Data><Data name="nom"><value>Farmàcia Santos del Rio, Mª Concepción</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r2rqazAJqgIxiFUuJH6D3SpBRbKHgTu4NEeisqazB</value></Data><Data name="telefon"><value>934409806</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12090825892624,41.3697879597139
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Rosselló 0033</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99638</value></Data><Data name="nom"><value>Farmàcia López Vicente, Andrea</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmo94ZmnB53H3Fliu8T9HRsqazCHq6uDnxg2qgqazB</value></Data><Data name="telefon"><value>934497433</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1252776504601,41.3720911505918
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Pujós 0049</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99584</value></Data><Data name="nom"><value>Farmàcia de Gabriel Blasco, Carlos</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeSc0TB0KqazCrhM3Gvq8HJDs6qCWiKzquddyAqazB</value></Data><Data name="telefon"><value>934494923</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11791241210881,41.3729266455578
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Mare de Déu de Bellvitge 204</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99605</value></Data><Data name="nom"><value>Farmàcia Miro Baldrich, Rosa María</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdlIl5qazCOaVGO0ic8OkgqazCMkWcS8bKA78VMYoqazB</value></Data><Data name="telefon"><value>932630786</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10587401618413,41.3508734760159
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Teide 48</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99569</value></Data><Data name="nom"><value>Farmàcia Trubat Domenech, Marc</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLhcgD8qazAIoqazApT111i4nQsjY8BAclglp0VpkqazB</value></Data><Data name="telefon"><value>934377572</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1098367462446,41.3662169256781
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Prat 0001</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99629</value></Data><Data name="nom"><value>Farmàcia Soler Segon, Concepción</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r0J3pVsRoFR9pfJo4HRkSaVllJKVSXxohMqazB</value></Data><Data name="telefon"><value>933351441</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10738485636932,41.3522813699791
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>CR Collblanc 0075</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99581</value></Data><Data name="nom"><value>Farmàcia Costa Oliva, Esther</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeRpyPmhtaHEB6YVFRTDnBULrEpghjqazCDBowqazB</value></Data><Data name="telefon"><value>934482439</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11644007328328,41.3756896430744
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Montseny 140</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99567</value></Data><Data name="nom"><value>Farmàcia Morales Ballús, Mónica</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLix8TttAhb3KnByqazC3YBkQYH5phFwJq5qz0qazB</value></Data><Data name="telefon"><value>934491593</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11868663543619,41.3696088255823
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Alegria 0050</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99635</value></Data><Data name="nom"><value>Farmàcia Totosaus Arribas, Mª Pilar</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmr8KGsFN8ZJm4qazAdmiac0JBNRIMbJjieca4qazB</value></Data><Data name="telefon"><value>934494636</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1141974370335,41.369114962844
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>CR Collblanc 0050</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99597</value></Data><Data name="nom"><value>Farmàcia Huguet Higueras, LLuis</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFDmTCqxwKcD5VFpKR3oavVr1Tb5vnPDqazC2sqazB</value></Data><Data name="telefon"><value>934490064</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11915274508236,41.375827544932
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Cotonat 38</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99623</value></Data><Data name="nom"><value>Farmàcia Bosch Sais, Roser</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKhc4HKRqueKWdcbMsqazAXJmS8ROJmUTQaZqYUqazB</value></Data><Data name="telefon"><value>934491261</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11479858066298,41.3732810385825
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Enginyer Moncunill 0048</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99579</value></Data><Data name="nom"><value>Farmàcia Bagaria de Casanova, Guillermo / Casanova Puigmartí, Mª Asunción</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeSLCqazCjULflZIlCkzGdsyX8WMzFTqLlfOrkqazB</value></Data><Data name="telefon"><value>934490004</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1100202755585,41.3711724519867
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Masnou 0062</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99613</value></Data><Data name="nom"><value>Farmàcia Pares Lucini, Juan</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdm6T7hybLWiI8idasgJEgw6Ai98lFZP33oqazB</value></Data><Data name="telefon"><value>933340250</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10857475448815,41.3693237364974
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Electricitat 8</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99640</value></Data><Data name="nom"><value>Farmàcia Ubeda Galindo, Miguel Isidro</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmouULDq9XTVNZYCAcKp3qHSyqazAiqazA6lj14o8qazB</value></Data><Data name="telefon"><value>934373845</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10197760617284,41.3690922737266
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>PE Oliveras 0001</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99636</value></Data><Data name="nom"><value>Farmàcia Totosaus Raventos, Jaume</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmqKXPxJgZL4q9Ik9BncNzzkUp2pUBh5mC0qazB</value></Data><Data name="telefon"><value>934491731</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1171926489264,41.3704440713859
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Amadeu Torner 115</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99570</value></Data><Data name="nom"><value>Farmàcia Bescos Mateu, Enric/ Mateu Cervello, Misericordia</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLj9PIaq2UlvF4sVQwVwNm9MaV1M6pVvnaIqazB</value></Data><Data name="telefon"><value>934223410</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12050944170449,41.3647767571078
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Pareto 39</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99602</value></Data><Data name="nom"><value>Farmàcia Golano Gibert, Marta</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFAqazCZdGqazAmlmUqtdiTwLM11XHVKZwRFzumb8qazB</value></Data><Data name="telefon"><value>933314594</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12772236990293,41.3654261715454
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>CR Collblanc 245</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99573</value></Data><Data name="nom"><value>Farmàcia Solís Montoya, Laureano</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLjbhSeHmjCRArWH19m2lQjqJJd9L1smqBgqazB</value></Data><Data name="telefon"><value>934383949</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10083819868218,41.3762893384711
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Marcel·lí Esquius 0040</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99606</value></Data><Data name="nom"><value>Farmàcia Garcia Brocos, Jose</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdkaM0gaxAqazAxY3ILnpfX7QRUn3eemqazAPpLWgqazB</value></Data><Data name="telefon"><value>934373094</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10041383643521,41.3706383458304
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Granvia de l'Hospitalet 35</value></Data><Data name="barri"><value>Granvia Sud</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99572</value></Data><Data name="nom"><value>Farmàcia Escudero Cabrerizo, Susana</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLhGdz0v2SsGV8YcGmvzJkqazCrqazASKqFEmAe8kqazB</value></Data><Data name="telefon"><value>934216149</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.13280803461424,41.3615103392096
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>TS Industrial 90</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>280722</value></Data><Data name="nom"><value>Farmàcia de Bolós Giralt, Marta</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1GMP1Wlw01RkqOOtUjrD1LFwqazALgHTqJPcETGDB740S5wqazB</value></Data><Data name="telefon"><value>933355891</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11399142769542,41.3578630398784
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>RO Torrassa 0070</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99624</value></Data><Data name="nom"><value>Farmàcia Sainz Varona, Mª Pilar</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKheJHZcOfDENx6DnIB5Zz43zUg98yYWekRsqazB</value></Data><Data name="telefon"><value>934312630</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12596779904762,41.368772640932
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Sanfeliu 0087</value></Data><Data name="barri"><value>Sanfeliu</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99574</value></Data><Data name="nom"><value>Farmàcia Cabré Menéndez, Mª Jose</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLgT3byeBlMkqazAimeebHmOB9MWqazCeS4uiTQuAqazB</value></Data><Data name="telefon"><value>933381062</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.08899523231116,41.3663059671627
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>PL Mare de Déu del Pilar 0008</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99585</value></Data><Data name="nom"><value>Farmàcia Fontana Mendez, Pilar</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uRFucvoKhePGCg7U6Ci4qazAqazC8HDIrstqazCB9e0qazB</value></Data><Data name="telefon"><value>934491278</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1064793863066,41.373027560818
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Josep Tarradellas i Joan 0107</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99600</value></Data><Data name="nom"><value>Farmàcia Martí i Mas, Carme</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFDvr04MdCTF0ecUNnHgxf5ORqazCo0t3tCFKYqazB</value></Data><Data name="telefon"><value>933379049</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10833562197313,41.3640705290142
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. General Prim 0037</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99587</value></Data><Data name="nom"><value>Farmàcia Andrades Francia, José Luis / Andrades Francia, MªÁngeles</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uRcUi9RqazAq83vobaKoqazAYWqazC9qazAWwpIk89qazC6zMqazB</value></Data><Data name="telefon"><value>933314046</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12543203820358,41.3650304673684
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Portugal 0044 A/B</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99598</value></Data><Data name="nom"><value>Farmàcia Giler Solórzano, Mirian E.</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFCij88KTY439uI3HqJX0pPK1JD1U6877A8qazB</value></Data><Data name="telefon"><value>933362560</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10975134436335,41.3540651757416
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Renclusa 0082</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99621</value></Data><Data name="nom"><value>Farmàcia Roquet Fernández de Aranburu, Concepción</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKheKzuDKc39tmqazCqazA3fnOO1VlkOcTN6CM8UhgqazB</value></Data><Data name="telefon"><value>934382246</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10834139668918,41.3680248528465
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Progrés 0039</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99615</value></Data><Data name="nom"><value>Farmàcia Puig Romeu, José Mª</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKheVrCnMVylubqRlyHuYb6XFiLCkPtoir9kqazB</value></Data><Data name="telefon"><value>934491215</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11996802375766,41.3738971814423
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Llobregat 0136</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99616</value></Data><Data name="nom"><value>Farmàcia Pujadas Piulachs, Agustí / Pujadas Piulachs, Xavier / Pujadas Saret, Agustín</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKhcN5dzHPogiC5BVIFzfC5q4zPwqazAJAZPux4qazB</value></Data><Data name="telefon"><value>934495136</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12118525961517,41.3705286885998
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Carrilet 0206</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99578</value></Data><Data name="nom"><value>Farmàcia Cardenal Margarit, José F.</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeTvTyTVjFjsfE6VjG1VoW8nUdGtHFoDuicqazB</value></Data><Data name="telefon"><value></value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11166010575966,41.3613850001609
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Sant Joan 0002</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99630</value></Data><Data name="nom"><value>Farmàcia Massague Sole, Rosa Mª</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r3JFAEzhDIgMWJgu8ahqazCdsuqxCT6s9lkKMqazB</value></Data><Data name="telefon"><value>933373119</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09867542313322,41.3623108466671
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Doctor Martí i Julià 63</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99610</value></Data><Data name="nom"><value>Farmàcia Morales Pujol, Carmen</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdmXqRboaw6BVfPozRfIZlthFdeJfAaWvy8qazB</value></Data><Data name="telefon"><value>934497264</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12254223440558,41.3736556304801
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Belchite 13</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>146105</value></Data><Data name="nom"><value>Farmàcia Simón Barón, José Miguel</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1isx6RzHRMaSqazCwqazC4yzZK7QirSIEHEpP19GbGNBXxwMRMqazB</value></Data><Data name="telefon"><value>934807011</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10325734261798,41.3742905537353
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Garrofers 0029</value></Data><Data name="barri"><value>Les Planes</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99637</value></Data><Data name="nom"><value>Farmàcia Moreno Sánchez, Carlos</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmo38sqUzCaZCqgdwPCiYxmDovg2GZuSW1wqazB</value></Data><Data name="telefon"><value>934497812</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11194200170901,41.3679085869425
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Enric Prat de la Riba 0082</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99620</value></Data><Data name="nom"><value>Farmàcia Rodergas Via, Gloria</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKheqazAVUk1qazCYqzruC8P1LBIqazAr9HqazCQ5jRQbTeEqazB</value></Data><Data name="telefon"><value>933373834</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11160825735329,41.3634383042834
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>RB Just Oliveras 44</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99627</value></Data><Data name="nom"><value>Farmàcia Sanfeliu Soto, Enrique</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r2dlNqazCFmDqSDJ0Rk63giuYABKioGhPHJxIqazB</value></Data><Data name="telefon"><value>933373164</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10105809849159,41.3620592667164
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Covadonga 0043</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99608</value></Data><Data name="nom"><value>Farmàcia Monasterio Sánchez, Antonio</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdlJbYd6QYDEk4ORE7Zg2TCNkGIFQ3gx3P8qazB</value></Data><Data name="telefon"><value>934382744</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10203608009792,41.3752718464206
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Enric Prat de la Riba 210</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99631</value></Data><Data name="nom"><value>Farmàcia Soucheiron Almela, Inmaculada</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r0u9ciSiITXvmxCNnVN8EgyoObkFZ7EGWwqazB</value></Data><Data name="telefon"><value>934089810</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10527215209372,41.3607770290751
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Major 0019</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99604</value></Data><Data name="nom"><value>Farmàcia Miranda Muñoz, Alejandro</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFCVxrsHE9rGcwvEwFAAD1vlLKshtqazAJUKWwqazB</value></Data><Data name="telefon"><value>636540298</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10068526162743,41.3596153268374
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Aprestadora 19</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>146101</value></Data><Data name="nom"><value>Farmàcia Martínez Caballero, Laura</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1isx6RzHRMaQMKfwgsrYR1UgeDDHYgVBZk34L1ENsT3oqazB</value></Data><Data name="telefon"><value>933324558</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.13137952321503,41.3637424243467
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Igualtat 0010</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99634</value></Data><Data name="nom"><value>Farmàcia Teruel Lorca, Ana</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r1qazAdU2Fhd4pxtc9nBgQNeWmqazAaL0DWJNLqazA4qazB</value></Data><Data name="telefon"><value>932633224</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12505210489453,41.3612624519453
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Fabregada 56</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99611</value></Data><Data name="nom"><value>Farmàcia Navarro García, Francesc</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdnWJBO5KaCTQ7uP7UIFBW6zU8NLfY8qazCna8qazB</value></Data><Data name="telefon"><value>933387797</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10736364882618,41.3599555820541
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Albéniz 27</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99590</value></Data><Data name="nom"><value>Farmàcia Garcia Barquin, Ma. Dolores / Perez Garcia, Elena</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uRGBJmIVPHt0BV0JgKx9yqazAuAlWmOAb6vqkqazB</value></Data><Data name="telefon"><value>934490702</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10579031147001,41.3753191074807
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Badalona 0010</value></Data><Data name="barri"><value>Santa Eulàlia</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99595</value></Data><Data name="nom"><value>Farmàcia Hernández Alonso, Mª Angeles</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFA1chnqxpORMuJP7reNtdU0GYLWvQiqnmoqazB</value></Data><Data name="telefon"><value>934312905</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12324563691858,41.3622395206608
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Pedraforca 0112</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99609</value></Data><Data name="nom"><value>Farmàcia Morales Espina, Mª del Carmen/ Morales Espina, Mercè</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdlT3Des2Xaq3rA4WWk0w86bSKMC0CwxqazAnEqazB</value></Data><Data name="telefon"><value>934372595</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10777534182555,41.3709478894969
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Doctor Martí i Julià 177</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99641</value></Data><Data name="nom"><value>Farmàcia Alamos López, Pilar</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmptZSN5j13vPcdqazAa82TiwR3h2C1ih5qhTYqazB</value></Data><Data name="telefon"><value>934313391</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12693420285708,41.3698248464144
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Mare de Déu de Bellvitge 0024</value></Data><Data name="barri"><value>Bellvitge</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99580</value></Data><Data name="nom"><value>Farmàcia Cortit Granollers, Luis</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeQaFmCBxEHFzzCCKgMx4gYE6YqY8uFYr9gqazB</value></Data><Data name="telefon"><value>933350594</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10810116372602,41.3479723362614
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Can Serra 51</value></Data><Data name="barri"><value>Can Serra</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99617</value></Data><Data name="nom"><value>Farmàcia Barberan Parcerisa, Luis Miguel</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKhekLqazC8Lw97xSdsUFjYR5VpJXrKHeCIpiD0qazB</value></Data><Data name="telefon"><value>934375934</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10075024148484,41.3661822817888
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Can Tries 21</value></Data><Data name="barri"><value>Gornal</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99582</value></Data><Data name="nom"><value>Farmàcia de Bolós Giralt, Nuria</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeSL2qOf55NCUJkkqazC5pYjQxyGBwJIBadlqUqazB</value></Data><Data name="telefon"><value>933363135</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11959453242689,41.359031994166
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Sant Roc 0043</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99577</value></Data><Data name="nom"><value>Farmàcia Capdevila Vila, Mercedes</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeTDcYcqazA2a8sJ8ATllIgkgpiRGgEmLYIXEYqazB</value></Data><Data name="telefon"><value>933371281</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09882374116735,41.3576281213087
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Progrés 85</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99575</value></Data><Data name="nom"><value>Farmàcia Bertran Gomez,Montserrat / Camacho Pelaez, Sara</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1wtKTJisdUeTVBAEXGQS6bImtwgVwY0VPuSDRcFvQ51AqazB</value></Data><Data name="telefon"><value>934495169</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12096982499889,41.3723195280519
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Can Serra 0020</value></Data><Data name="barri"><value>Can Serra</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99589</value></Data><Data name="nom"><value>Farmàcia Galindo Lozano, M. Teresa / Martín Palma, Ana</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uT7vc5adJGSq5m3JwWMlXe6Gu6KMTHAKzoqazB</value></Data><Data name="telefon"><value>934370495</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.0993746138922,41.3653608477438
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Severo Ochoa 0099</value></Data><Data name="barri"><value>Pubilla Casas</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99607</value></Data><Data name="nom"><value>Farmàcia Molins Roca, Francesc</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1hRnaF8vmNdmZOyO6qazCpriwZmCY44TvRvABuaiODqazALS4YqazB</value></Data><Data name="telefon"><value>934378611</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10213972584792,41.3720840161379
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Rossend Arús 54</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99625</value></Data><Data name="nom"><value>Farmàcia Pérez Morales, Juana Mª</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r0prjvHdoBGi16OzwrhHheJfMIry043qx0qazB</value></Data><Data name="telefon"><value>933370792</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10055115111305,41.357200274041
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Major 34</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99633</value></Data><Data name="nom"><value>Farmàcia Huguet Termes, Mª Teresa</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r24KyrqazAJzmNJBPjNaWSxakcwXOgRHVyGAUqazB</value></Data><Data name="telefon"><value>933370637</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.09861783212325,41.3595541083114
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Florida 0053</value></Data><Data name="barri"><value>La Florida</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99571</value></Data><Data name="nom"><value>Farmàcia Barnadas Rull, Clara</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1qazAW6QEqazCtnYLjYAZr67NJI6m1fq1Ry66qazAjTKCUeD529cwqazB</value></Data><Data name="telefon"><value>934492738</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11212523046619,41.3702609499598
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Rafael Campalans 0089</value></Data><Data name="barri"><value>La Torrassa</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99586</value></Data><Data name="nom"><value>Farmàcia de la Fuente Ruiz, Luis</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1C9188J9n0uQ62gkccCDdoAOWGs80bp4VOXa9SY4iXYkqazB</value></Data><Data name="telefon"><value>934496936</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.12352719271385,41.3715463856762
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Occident 0014</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99619</value></Data><Data name="nom"><value>Farmàcia Rodas Loperena, María</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKheKae3HxqazAZbzzkPRaqazCDDDhjwL4Z4aragSMqazB</value></Data><Data name="telefon"><value>933342312</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11992892941846,41.3750228148552
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>RB Marina 441</value></Data><Data name="barri"><value>Centre</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99622</value></Data><Data name="nom"><value>Farmàcia Dasca de Moxo, Mª Teresa</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKhfBKii0fYjFGp8QRL6qazAbg9A4UmuxSzAvBcqazB</value></Data><Data name="telefon"><value>933370072</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10173994454015,41.3594254027109
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Canigó 50</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99601</value></Data><Data name="nom"><value>Farmàcia Alias Faya, Ana Mª</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFClzK7EpQCvJzL1uSYmrEvcHeSNxD0VxpYqazB</value></Data><Data name="telefon"><value>933379061</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11341538716926,41.3668300485257
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Carmen Amaya 0024</value></Data><Data name="barri"><value>Gornal</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99599</value></Data><Data name="nom"><value>Farmàcia de Luca Gallego, Mª Pilar</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?19mtfPIaQqazAFA8siock0VcX5MEz5pZoUOnT2qwfPc8MSMqazB</value></Data><Data name="telefon"><value>933361001</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.11813937419197,41.3543549699726
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Can Serra 0092</value></Data><Data name="barri"><value>Can Serra</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99642</value></Data><Data name="nom"><value>Farmàcia Bastida Fernández, Berta</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1T9KNDqazCckSmpxqczFHUrs6qy2KF2PZanSREC29Ykrc5AqazB</value></Data><Data name="telefon"><value>934379792</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.10200498688214,41.3671018378725
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>C. Enric Prat de la Riba 161</value></Data><Data name="barri"><value>Sant Josep</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99618</value></Data><Data name="nom"><value>Farmàcia Moreno Murillo, Raquel</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1mJ0aO7xTKhff6gRRSUhtGp7iShqazAycVtlg4X5wjT2wqazCsqazB</value></Data><Data name="telefon"><value>933372556</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1087902170158,41.3622995794862
+    </coordinates></Point>
+    </Placemark><Placemark>
+      <styleUrl>#defaultStyle</styleUrl>
+      
+      <ExtendedData>
+        <Data name="adreca"><value>AV Torrent Gornal 0058</value></Data><Data name="barri"><value>Collblanc</value></Data><Data name="coordenades_address"><value></value></Data><Data name="coordenades_city"><value></value></Data><Data name="coordenades_state"><value></value></Data><Data name="coordenades_zip"><value></value></Data><Data name="correuelectronic"><value></value></Data><Data name="fax"><value></value></Data><Data name="id"><value>99626</value></Data><Data name="nom"><value>Farmàcia Sancho Soto, Facundo / Sancho Soto, Mª Josefa</value></Data><Data name="paginaweb"><value>http://www.l-h.cat/directori/detallequipament.aspx?1aaqb5VpN9r2bAJsmiQGtMkvs62qazCDPlSsm81thCPXYhcqazB</value></Data><Data name="telefon"><value>934492601</value></Data><Data name="url_icona"><value>http://www.l-h.cat/img/planol/ico_farm.gif</value></Data>
+      </ExtendedData>
+      <Point><coordinates>
+      2.1143523156121,41.3718003798242
+    </coordinates></Point>
+    </Placemark></Folder>  </Document>
+  </kml>
