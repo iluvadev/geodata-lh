@@ -46,12 +46,46 @@ Mapes obtinguts de diferents geoportals de L'Hospitalet de Llobregat: [Geoportal
 Adquisició de les dades: 25/01/2021
 
 Inclou les següents seccions i mapes:
-* [Administració](mapes/Geoportal/Administració)
+* [Administració](mapes/Geoportal/Administració):
+  * Ajuntament de l’Hospitaltet
+  * Bombers
+  * Cementiri
+  * Comissaria Mossos d’Esquadra
+  * Comissaria Pol. Nacional (Doc.)
+  * Dipòsit de vehicles
+  * Guàrdia Urbana
+  * Oficina d’atenció al ciutadà
+  * Regidories de districte
+  * Registre general
+  * Tanatori
 * [Allotjament](mapes/Geoportal/Allotjament)
+  * Hotels
 * [Bicicleta](mapes/Geoportal/Bicicleta)
+  * Altres vies pedalables
+  * Aparcaments bicicletes
+  * BiciBox
+  * Xarxa pedalable bàsica
+  * Xarxa pedalable secundària
 * [Cultura](mapes/Geoportal/Cultura)
+  * Arxius Municipals
+  * Biblioteques
+  * Centres culturals
+  * Cinemes
+  * Museus
+  * Teatres i auditoris
 * [Educació](mapes/Geoportal/Educació)
+  * Centre de normalització lingüística
+  * Centres d’educació infantil i primària
+  * Centres d’ensenyament secundari i reglat
+  * Escola de Música - Centre de les Arts
+  * Escola oficial d’idiomes
+  * Escoles d’adults
+  * Llars d’infants
+  * Oficina municipal d’escolarització
+  * Universitats
 * [Esports](mapes/Geoportal/Esports)
+  * Instal·lacions esportives
+  * Poliesportius
 * [Mercats](mapes/Geoportal/Mercats)
 * [Neteja](mapes/Geoportal/Neteja)
 * [Recollida de residus](mapes/Geoportal/Recollida%20de%20residus)
