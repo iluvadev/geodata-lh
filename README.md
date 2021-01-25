@@ -31,12 +31,33 @@ Adquisició de les dades: 21/01/2021
 Certs mapes poden contenir dades sobre les diferents àrees representades: Superfície, Població, Densitat de població, Habitants segons franges d'edat, etc.
 
 Inclou els següents mapes:
-  * [Seccions Censals](mapes/Divisió%20territorial/Seccions%20Censals)
-  * [Barris](mapes/Divisió%20territorial/Barris)
-  * [Districtes](mapes/Divisió%20territorial/Districtes)
-  * [Municipi](mapes/Divisió%20territorial/Municipi)
+* [Seccions Censals](mapes/Divisió%20territorial/Seccions%20Censals)
+* [Barris](mapes/Divisió%20territorial/Barris)
+* [Districtes](mapes/Divisió%20territorial/Districtes)
+* [Municipi](mapes/Divisió%20territorial/Municipi)
 
-  * [Àrees Bàsiques de Salut](mapes/Divisió%20territorial/Arees%20Bàsiques%20de%20Salut)
-  * [Zones Educatives](mapes/Divisió%20territorial/Zones%20Educatives)
-  * [Codis Postals](mapes/Divisió%20territorial/Codis%20Postals)
+* [Àrees Bàsiques de Salut](mapes/Divisió%20territorial/Arees%20Bàsiques%20de%20Salut)
+* [Zones Educatives](mapes/Divisió%20territorial/Zones%20Educatives)
+* [Codis Postals](mapes/Divisió%20territorial/Codis%20Postals)
 
+#### [Geoportal](mapes/Geoportal)
+Mapes obtinguts de diferents geoportals de L'Hospitalet de Llobregat: [Geoportal Cartogràfic](https://geoportal.l-h.cat/), [Geoportal de l'Espai Públic](https://geoportal.l-h.cat/espaipublic/) i [Geoportal Guia Urbana](https://geoportal.l-h.cat/guiaurbana)
+
+Adquisició de les dades: 25/01/2021
+
+Inclou les següents seccions i mapes:
+* [Administració](mapes/Geoportal/Administració)
+* [Allotjament](mapes/Geoportal/Allotjament)
+* [Bicicleta](mapes/Geoportal/Bicicleta)
+* [Cultura](mapes/Geoportal/Cultura)
+* [Educació](mapes/Geoportal/Educació)
+* [Esports](mapes/Geoportal/Esports)
+* [Mercats](mapes/Geoportal/Mercats)
+* [Neteja](mapes/Geoportal/Neteja)
+* [Recollida de residus](mapes/Geoportal/Recollida%20de%20residus)
+* [Sanitat](mapes/Geoportal/Sanitat)
+* [Serveis Socials](mapes/Geoportal/Serveis%20Socials)
+* [Serveis a l'espai públic](mapes/Geoportal/Serveis%20a%20l'espai%20públic)
+* [Transports](mapes/Geoportal/Transport)
+* [Verd urbà](mapes/Geoportal/Verd%20urbà)
+* [Xarxa topogràfica](mapes/Geoportal/Xarxa%20topogràfica)
