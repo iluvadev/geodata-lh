@@ -87,11 +87,46 @@ Inclou les següents seccions i mapes:
   * Instal·lacions esportives
   * Poliesportius
 * [Mercats](mapes/Geoportal/Mercats)
+  * Galeries i centres comercials
+  * Mercats setmanals
+  * Mercats
 * [Neteja](mapes/Geoportal/Neteja)
+  * Escombrat manual
+  * Escombrat mecànic
+  * Neteja amb aigua
 * [Recollida de residus](mapes/Geoportal/Recollida%20de%20residus)
+  * Contenidor envasos
+  * Contenidor orgànica
+  * Contenidor paper
+  * Contenidor rebuig
+  * Contenidor vidre
+  * Deixalleries mòbils
 * [Sanitat](mapes/Geoportal/Sanitat)
+  * Centres de Planificació Familiar
+  * Centres d’Atenció Primària
+  * Clíniques i Hospitals
+  * Farmàcies
 * [Serveis Socials](mapes/Geoportal/Serveis%20Socials)
+  * Centres de Serveis Socials
+  * Centres de dia per Gent Gran
+  * Residències Gent Gran
+  * Servei d’Orientació i Benestar Social
 * [Serveis a l'espai públic](mapes/Geoportal/Serveis%20a%20l'espai%20públic)
+  * Aparells de salut
+  * Correcans
+  * Elements esportius
+  * Jocs infantils
+  * Pistes de petanca
+  * Àrea de gossos
 * [Transports](mapes/Geoportal/Transport)
+  * Aparcaments
+  * FGC
+  * Metro
+  * Parades autobús
+  * Rodalies
+  * TRAM
 * [Verd urbà](mapes/Geoportal/Verd%20urbà)
+  * Parcs
+  * Zones Verdes
 * [Xarxa topogràfica](mapes/Geoportal/Xarxa%20topogràfica)
+  * Vèrtexs XTM-LH
