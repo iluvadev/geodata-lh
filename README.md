@@ -9,18 +9,6 @@ Conjunt de dades obtingudes del portal de [Dades obertes de L'Hospitalet](https:
 ### [Mapes](./mapes)
 Conjunt de mapes de L'Hospitalet de Llobregat, preparats per a ser usats com una capa dins de mapes personalitzats:
 
-#### [Dades obertes](mapes/Dades%20obertes)
-L'origen d'aquests mapes ha estat el portal de [Dades obertes de L'Hospitalet](https://opendata.l-h.cat/).
-
-Adquisició de les dades: 21/01/2021
-
-Inclou els següents mapes:
-* [BiciBox](mapes/Dades%20obertes/BiciBox)
-* [Contenidors recollida selectiva residus](mapes/Dades%20obertes/Contenidors%20recollida%20selectiva%20residus)
-* [Escoles bressol](mapes/Dades%20obertes/Escoles%20bressol)
-* [Farmàcies](mapes/Dades%20obertes/Farmacies)
-* [Parades de metro ferrocarril i TRAM](mapes/Dades%20obertes/Parades%20de%20metro%20ferrocarril%20i%20TRAM)
-
 #### [Divisió territorial](mapes/Divisió%20territorial)
 Diferents mapes amb la divisió territorial oficial de L'Hospitalet de Llobregat.
 
@@ -144,3 +132,15 @@ Inclou les següents seccions i mapes:
   * Zones Verdes
 * [Xarxa topogràfica](mapes/Geoportal/Xarxa%20topogràfica)
   * Vèrtexs XTM-LH
+  
+#### [Dades obertes](mapes/Dades%20obertes)
+L'origen d'aquests mapes ha estat el portal de [Dades obertes de L'Hospitalet](https://opendata.l-h.cat/).
+
+Adquisició de les dades: 21/01/2021
+
+Inclou els següents mapes:
+* [BiciBox](mapes/Dades%20obertes/BiciBox)
+* [Contenidors recollida selectiva residus](mapes/Dades%20obertes/Contenidors%20recollida%20selectiva%20residus)
+* [Escoles bressol](mapes/Dades%20obertes/Escoles%20bressol)
+* [Farmàcies](mapes/Dades%20obertes/Farmacies)
+* [Parades de metro ferrocarril i TRAM](mapes/Dades%20obertes/Parades%20de%20metro%20ferrocarril%20i%20TRAM)
