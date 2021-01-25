@@ -31,14 +31,28 @@ Adquisició de les dades: 21/01/2021
 Certs mapes poden contenir dades sobre les diferents àrees representades: Superfície, Població, Densitat de població, Habitants segons franges d'edat, etc.
 
 Inclou els següents mapes:
-* [Seccions Censals](mapes/Divisió%20territorial/Seccions%20Censals)
-* [Barris](mapes/Divisió%20territorial/Barris)
-* [Districtes](mapes/Divisió%20territorial/Districtes)
-* [Municipi](mapes/Divisió%20territorial/Municipi)
+1. Mapes amb informació de la població segmentada per edat. Cada àrea representada conté informació de les dades del 2020 relatives a:
+  * Població segons el rang d'edats "00-02", "03-11", "12-15", "16-17", "18-24", "25-34", "35-49", "50-64", "65-74" i "75 i +"
+  * Població total
+  * Densitat de població
+  
+  Aquests mapes són:
+    * [Seccions Censals](mapes/Divisió%20territorial/Seccions%20Censals)
+    * [Barris](mapes/Divisió%20territorial/Barris)
+    * [Districtes](mapes/Divisió%20territorial/Districtes)
+    * [Municipi](mapes/Divisió%20territorial/Municipi)
 
-* [Àrees Bàsiques de Salut](mapes/Divisió%20territorial/Arees%20Bàsiques%20de%20Salut)
-* [Zones Educatives](mapes/Divisió%20territorial/Zones%20Educatives)
-* [Codis Postals](mapes/Divisió%20territorial/Codis%20Postals)
+2. Mapes amb informació temporal dels Habitants i Habitatges amb:
+  * Nombre d'Habitants del 2018, 2019 i 2020
+  * Densitat de població del 2018, 2019 i 2020
+  * Habitatges existents els anys 2018, 2019 i 2020
+
+  Aquests mapes són:
+    * [Àrees Bàsiques de Salut](mapes/Divisió%20territorial/Arees%20Bàsiques%20de%20Salut)
+
+3. Mapes sense informació complementària:
+  * [Zones Educatives](mapes/Divisió%20territorial/Zones%20Educatives)
+  * [Codis Postals](mapes/Divisió%20territorial/Codis%20Postals)
 
 #### [Geoportal](mapes/Geoportal)
 Mapes obtinguts de diferents geoportals de L'Hospitalet de Llobregat: [Geoportal Cartogràfic](https://geoportal.l-h.cat/), [Geoportal de l'Espai Públic](https://geoportal.l-h.cat/espaipublic/) i [Geoportal Guia Urbana](https://geoportal.l-h.cat/guiaurbana)
